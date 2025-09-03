@@ -12,3 +12,4 @@ scikit-learn 1.6.1
 scipy 1.15.1
 seaborn 0.13.2
 SQLAlchemy 2.0.37
+tensorflow 2.19.0
