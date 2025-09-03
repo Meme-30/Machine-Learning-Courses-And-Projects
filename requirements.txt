@@ -14,3 +14,4 @@ seaborn 0.13.2
 SQLAlchemy 2.0.37
 tensorboard 2.19.0
 tensorflow 2.19.0
+tensorflow_hub 0.16.1
